@@ -282,7 +282,7 @@ export const ChatMessage = ({ open, chatflowid, isDialog }) => {
                                         {/* Display the correct icon depending on the message type */}
                                         {message.type === 'apiMessage' ? (
                                             <img
-                                                src='https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/parroticon.png'
+                                                src='https://raw.githubusercontent.com/zahidkhawaja/langchain-chat-nextjs/main/public/usericon.png'
                                                 alt='AI'
                                                 width='30'
                                                 height='30'
